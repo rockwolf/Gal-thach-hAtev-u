@@ -1,0 +1,5 @@
+== Galáthach hAtevíu / Modern Gaulish
+
+Source: https://moderngaulishlessons.wordpress.com/modern-gaulish-lessons-in-english/
+
+I needed a way to read it on my e-reader, so this folder contains the information of that website in a latex document.

@@ -3,3 +3,13 @@
 Source: https://moderngaulishlessons.wordpress.com/modern-gaulish-lessons-in-english/
 
 I needed a way to read it on my e-reader, so this folder contains the information of that website in a latex document.
+
+=== Issues
+
+In case the trajan font doesn't work (miktex issue):
+initexmf --mkmaps (or updmap)
+initexmf --admin --mkmaps (or  updmap --admin)
+initexmf --edit-config-file updmap
+and add the following 2 lines:
+#trajan
+Map trajan.map

@@ -19,6 +19,16 @@
 \usepackage{rotating}
 \usepackage{tipa} % \textschwa
 \usepackage{subcaption} % caption images in tabu
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+
+% Messenger-like bubble conversation view
+\usepackage{environ}
+\usepackage{xparse} % Needed for \ExplSyntaxOn
+\newlength{\bubblesep}
+\newlength{\bubblewidth}
+\setlength{\bubblesep}{1pt}
+\AtBeginDocument{\setlength{\bubblewidth}{.75\textwidth}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Types

@@ -18,6 +18,18 @@
 \usepackage{upgreek} % allows for upright greek letters, like \uptheta
 \usepackage{rotating}
 \usepackage{tipa} % \textschwa
+\usepackage{subcaption} % caption images in tabu
+\usepackage[table]{xcolor} % also loads colortbl
+%\usepackage{xcolor} % DEBUG
+\usepackage{tcolorbox}
+
+% Messenger-like bubble conversation view
+\usepackage{environ}
+\usepackage{xparse} % Needed for \ExplSyntaxOn
+\newlength{\bubblesep}
+\newlength{\bubblewidth}
+\setlength{\bubblesep}{1pt}
+\AtBeginDocument{\setlength{\bubblewidth}{.75\textwidth}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Types
@@ -30,6 +42,10 @@
 \renewcommand{\rmdefault}{lmr}
 \renewcommand{\sfdefault}{lmr}
 \renewcommand{\ttdefault}{lmr}
+\definecolor{lightgreen}{RGB}{240,255,163}
+\definecolor{darkgreen}{RGB}{080,105,003}
+\definecolor{darkgray}{RGB}{080,080,080}
+
 \begin{document}
 \input{../general/settings}
 \input{../general/custom_commands}

@@ -8,8 +8,19 @@ This github repository contains documents, related to the Modern Gaulish languag
 
 Here, you can find a free book version of the lessons from http://moderngaulishlessons.wordpress.com.  +
 
-The lessons are available in 3 formats:  +
-* https://github.com/rockwolf/modern-gaulish/raw/v1.0-draft-2/modern-gaulish-lessons/modern-gaulish-lessons.pdf[pdf, v1.0-draft-2]  +
-* epub (not available yet)  +
-* mobi (not available yet)  +
+=== Build status
 
+|==============================
+| branch | build status
+| modern-gaulish-develop | image:https://travis-ci.com/nintaitrading-eu/modern-gaulish.svg?branch=modern-gaulish-develop["Build Status", link="https://travis-ci.com/nintaitrading-eu/modern-gaulish"]
+| modern-gaulish-release | image:https://travis-ci.com/nintaitrading-eu/modern-gaulish.svg?branch=modern-gaulish-release["Build Status", link="https://travis-ci.com/nintaitrading-eu/modern-gaulish"]
+|==============================
+
+=== Release
+
+|==============================
+| date | type | version
+| 2018-10-03 | pdf | link:https://github.com/rockwolf/modern-gaulish/raw/v1.0-draft-2/modern-gaulish-lessons/modern-gaulish-lessons.pdf[pdf, v1.0-draft-2]
+| 2018-10-03 | epub | N/A 
+| 2018-10-03 | mobi | N/A 
+|==============================

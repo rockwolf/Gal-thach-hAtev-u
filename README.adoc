@@ -8,7 +8,7 @@ This github repository contains documents, related to the Modern Gaulish languag
 
 Here, you can find a free book version of the lessons from http://moderngaulishlessons.wordpress.com.  +
 
-== Build status
+=== Build status
 
 |==============================
 | branch | build status
@@ -16,7 +16,7 @@ Here, you can find a free book version of the lessons from http://moderngaulishl
 | modern-gaulish-release | image:https://travis-ci.com/nintaitrading-eu/modern-gaulish.svg?branch=modern-gaulish-release["Build Status", link="https://travis-ci.com/nintaitrading-eu/modern-gaulish"]
 |==============================
 
-== Release
+=== Release
 
 |==============================
 | date | type | version

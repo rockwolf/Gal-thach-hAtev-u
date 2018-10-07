@@ -1,5 +1,5 @@
 before_install:
-- "sudo apt-get install --no-install-recommends texlive-full dvipng"
+- "sudo apt-get update && sudo apt-get install --no-install-recommends texlive-full dvipng"
 - travis_wait 20
 script:
 - cd modern-gaulish-lessons/

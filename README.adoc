@@ -1,3 +1,14 @@
 == Galáthach hAtevíu / Modern Gaulish
 
-Documents, related to Galáthach hAtevíu (Modern Gaulish).
+== General information
+
+This github repository contains documents, related to the Modern Gaulish language.  +
+
+== Modern Gaulish Lessons
+
+Here, you can find a free book version of the lessons from http://moderngaulishlessons.wordpress.com.  +
+
+The lessons are available in 3 formats:  +
+* https://github.com/rockwolf/modern-gaulish/raw/v1.0-draft-2/modern-gaulish-lessons/modern-gaulish-lessons.pdf[pdf, v1.0-draft-2]  +
+* epub (not available yet)  +
+* mobi (not available yet)  +

@@ -1,5 +1,6 @@
 before_install:
 - "sudo apt-get update && sudo apt-get install --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra texlive-latex-recommended dvipng"
+- travis_wait 20
 script:
 - pdflatex modern-gaulish-lessons/modern-gaulish-lessons.tex
 - pdflatex modern-gaulish-lessons/modern-gaulish-lessons.tex

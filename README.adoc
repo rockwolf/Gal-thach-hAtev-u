@@ -20,7 +20,7 @@ Here, you can find a free book version of the lessons from http://moderngaulishl
 
 |==============================
 | date | type | version
-| 2018-03-17 | pdf | link:https://github.com/rockwolf/modern-gaulish/raw/v1.0-draft-2/modern-gaulish-lessons/modern-gaulish-lessons.pdf[pdf, v1.0-draft-2]
-| 2018-03-17 | epub | N/A 
-| 2018-03-17 | mobi | N/A 
+| 2018-10-12 | pdf | link:https://github.com/rockwolf/modern-gaulish/raw/v1.0-draft-3/modern-gaulish-lessons/modern-gaulish-lessons.pdf[pdf, v1.0-draft-3]
+| 2018-10-12 | epub | N/A 
+| 2018-10-12 | mobi | N/A 
 |==============================
